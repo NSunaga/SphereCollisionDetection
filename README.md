@@ -1,3 +1,3 @@
 SphereCollisionDetection
 ========================
-Collision detection using raycaster three.js.
+Cloth collision detection using raycaster three.js.
